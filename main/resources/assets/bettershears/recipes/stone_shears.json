@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " C",
+		"C "
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears:stone_shears",
+        "count": 1
+    }
+}

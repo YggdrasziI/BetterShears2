@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " O",
+		"O "
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears:obsidian_shears",
+        "count": 1
+    }
+}

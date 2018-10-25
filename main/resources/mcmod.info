@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bettershears",
+  "name": "Better Shears",
+  "description": "This mod adds new shears",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zilkoniss"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
