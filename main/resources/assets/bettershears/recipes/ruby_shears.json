@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " R",
+		"R "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "bettershears:ruby"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears:ruby_shears",
+        "count": 1
+    }
+}

@@ -1,20 +1,22 @@
-package fr.zilkoniss.bettershears.objects.items;
+package fr.zilkoniss.bettershears.objects.tools;
 
 import fr.zilkoniss.bettershears.BetterShearsMod;
 import fr.zilkoniss.bettershears.init.ItemsMod;
 import fr.zilkoniss.bettershears.util.interfaces.IHasModel;
-import net.minecraft.item.Item;
+import net.minecraft.item.ItemShears;
 
-public class ItemBase extends Item implements IHasModel
+public class ToolRubyShears extends ItemShears implements IHasModel
 {
-    public ItemBase(String name) 
+    public ToolRubyShears(String name)
     {
+        this.setMaxStackSize(1);
+        this.setMaxDamage(1529);
         setUnlocalizedName(name);
         setRegistryName(name);
         
         ItemsMod.ITEMS.add(this);
     }
-
+    
     @Override
     public void registerModels() 
     {

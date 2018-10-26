@@ -8,3 +8,15 @@ item.gold_shears.name=Gold Shears
 item.diamond_shears.name=Diamond Shears
 item.obsidian_shears.name=Obsidian Shears
 item.emerald_shears.name=Emerald Shears
+item.amethyst_shears.name=Amethyst Shears
+item.ruby_shears.name=Ruby Shears
+
+item.ruby.name=Ruby
+item.amethyst.name=Amethyst
+
+//Blocks
+tile.ruby_ore.name=Ruby Ore
+tile.amethyst_ore.name=Amethyst Ore
+
+tile.ruby_block.name=Ruby Block
+tile.amethyst_block.name=Amethyst Block
