@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "bettershears:items/ruby"
+        "layer0": "bettershears:items/clay_shears"
     }
 }

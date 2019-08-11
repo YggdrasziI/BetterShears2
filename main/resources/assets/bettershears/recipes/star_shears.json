@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " N",
+		"N "
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "minecraft:nether_star"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears:star_shears",
+        "count": 1
+    }
+}

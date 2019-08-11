@@ -2,21 +2,14 @@
 itemGroup.bettershearstab=Meilleur Cisailles
 
 //Items
+item.unfired_clay_shears.name=Cisailles non Cuite
+
+//Items
 item.wooden_shears.name=Cisailles en bois
 item.stone_shears.name=Cisailles en Pierre
 item.gold_shears.name=Cisailles en Or
+item.clay_shears.name=Cisailles en Argile
 item.diamond_shears.name=Cisailles en Diamant
 item.obsidian_shears.name=Cisailles en Obsidienne
 item.emerald_shears.name=Cisailles en Emeraude
-item.amethyst_shears.name=Cisailles en Améthyste
-item.ruby_shears.name=Cissailes en Ruby
-
-item.ruby.name=Ruby
-item.amethyst.name=Améthyste
-
-//Blocks
-tile.ruby_ore.name=Minerai de Ruby
-tile.amethyst_ore.name=Minerai d'Améthyste
-
-tile.ruby_block.name=Block de Ruby
-tile.amethyst_block.name=Block d'Améthyste
+item.star_shears.name=Cisailles Infini

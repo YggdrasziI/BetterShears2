@@ -11,6 +11,7 @@ public class ItemBase extends Item implements IHasModel
     {
         setUnlocalizedName(name);
         setRegistryName(name);
+        setMaxStackSize(1);
         
         ItemsMod.ITEMS.add(this);
     }

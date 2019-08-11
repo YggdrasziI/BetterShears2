@@ -5,12 +5,12 @@ import fr.zilkoniss.bettershears.init.ItemsMod;
 import fr.zilkoniss.bettershears.util.interfaces.IHasModel;
 import net.minecraft.item.ItemShears;
 
-public class ToolAmethystShears extends ItemShears implements IHasModel
+public class ToolStarShears extends ItemShears implements IHasModel
 {
-    public ToolAmethystShears(String name)
+    public ToolStarShears(String name)
     {
         this.setMaxStackSize(1);
-        this.setMaxDamage(1318);
+        this.setMaxDamage(1000000000);
         setUnlocalizedName(name);
         setRegistryName(name);
         

@@ -3,21 +3,21 @@
     
     "pattern":
     [
-        " R",
-		"R "
+        " D",
+		"D "
     ],
     
     "key":
     {
-        "R":
+        "D":
         {
-            "item": "bettershears:ruby"
+            "item": "minecraft:clay_ball"
         }
     },
     
     "result":
     {
-        "item": "bettershears:ruby_shears",
+        "item": "bettershears:unfired_clay_shears",
         "count": 1
     }
 }

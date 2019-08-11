@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "bettershears:blocks/amethyst_ore"
-    }
-}

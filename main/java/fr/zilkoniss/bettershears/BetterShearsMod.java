@@ -1,6 +1,9 @@
 package fr.zilkoniss.bettershears;
 
+import java.util.Random;
+
 import fr.zilkoniss.bettershears.creativetabs.BetterShearsTab;
+import fr.zilkoniss.bettershears.init.BlocksMod;
 import fr.zilkoniss.bettershears.proxy.CommonProxy;
 import fr.zilkoniss.bettershears.util.Reference;
 import fr.zilkoniss.bettershears.util.handlers.RegistryHandler;
@@ -12,6 +15,7 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import net.minecraftforge.fml.common.registry.GameRegistry;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION)
 public class BetterShearsMod 
@@ -33,8 +37,9 @@ public class BetterShearsMod
     @EventHandler
     public static void init(FMLInitializationEvent event) 
     {
-        
+        RegistryHandler.initRegistries();
     }
+    
     @EventHandler
     public static void postInit(FMLPostInitializationEvent event) 
     {

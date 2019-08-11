@@ -1,0 +1,15 @@
+//CreativeTabs
+itemGroup.bettershearstab=Улучшенные ножницы
+
+//Items
+item.unfired_clay_shears.name=Ubrannede Saks
+
+//Items
+item.wooden_shears.name=Tresaks
+item.stone_shears.name=Steinsaks
+item.gold_shears.name=Gull Saks
+item.clay_shears.name=LeirsaksS
+item.diamond_shears.name=Diamantsaks
+item.obsidian_shears.name=Obsidian Saks
+item.emerald_shears.name=Smaragd Saks
+item.star_shears.name=Uendelig Saks

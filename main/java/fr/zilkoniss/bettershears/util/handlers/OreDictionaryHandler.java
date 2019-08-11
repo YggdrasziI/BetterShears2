@@ -16,8 +16,6 @@ public class OreDictionaryHandler
         OreDictionary.registerOre("ingotGold", Items.GOLD_INGOT);
         OreDictionary.registerOre("gemDiamond", Items.DIAMOND);
         OreDictionary.registerOre("gemEmerald", Items.EMERALD);
-        OreDictionary.registerOre("gemAmethyst", ItemsMod.AMETHYST);
-        OreDictionary.registerOre("gemRuby", ItemsMod.RUBY);
         
         OreDictionary.registerOre("oreCoal", Blocks.COAL_ORE);
         OreDictionary.registerOre("oreIron", Blocks.IRON_ORE);
