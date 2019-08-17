@@ -5,7 +5,7 @@ item.unfired_clay_shears.name=необожженные ножницы
 
 //Items
 item.wooden_shears.name=Деревянные ножницы
-item.stone_shears.name=Каменные ножницы
+item.flint_shears.name=кремневые ножницы
 item.gold_shears.name=Золотые ножницы
 item.clay_shears.name=глиняные ножницы
 item.diamond_shears.name=Алмазные ножницы

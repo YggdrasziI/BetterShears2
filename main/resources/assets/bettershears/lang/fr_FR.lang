@@ -6,7 +6,7 @@ item.unfired_clay_shears.name=Cisailles non Cuite
 
 //Items
 item.wooden_shears.name=Cisailles en bois
-item.stone_shears.name=Cisailles en Pierre
+item.flint_shears.name=Cisailles en Silex
 item.gold_shears.name=Cisailles en Or
 item.clay_shears.name=Cisailles en Argile
 item.diamond_shears.name=Cisailles en Diamant

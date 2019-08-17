@@ -6,7 +6,7 @@ item.unfired_clay_shears.name=Ubrannede Saks
 
 //Items
 item.wooden_shears.name=Tresaks
-item.stone_shears.name=Steinsaks
+item.flint_shears.name=Flint Saks
 item.gold_shears.name=Gull Saks
 item.clay_shears.name=LeirsaksS
 item.diamond_shears.name=Diamantsaks

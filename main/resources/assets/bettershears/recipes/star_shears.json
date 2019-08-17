@@ -3,16 +3,24 @@
     
     "pattern":
     [
-        " N",
-		"N "
+		"DE",
+		"ND"
     ],
-    
-    "key":
+	
+	"key":
     {
-        "N":
+        "D":
         {
-            "item": "minecraft:nether_star"
-        }
+            "item": "minecraft:dragon_egg"
+        },
+		"N":
+		{
+			"item": "minecraft:nether_star"
+		},
+		"E":
+		{
+			"item": "minecraft:end_crystal"
+		}
     },
     
     "result":
