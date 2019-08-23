@@ -3,8 +3,9 @@
     
     "pattern":
     [
-		"DE",
-		"ND"
+		" NE",
+		"DSN",
+		"ND "
     ],
 	
 	"key":
@@ -20,6 +21,10 @@
 		"E":
 		{
 			"item": "minecraft:end_crystal"
+		},
+		"S":
+		{
+			"item": "bettershears:emerald_shears"
 		}
     },
     

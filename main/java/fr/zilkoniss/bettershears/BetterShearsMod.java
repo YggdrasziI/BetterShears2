@@ -3,7 +3,6 @@ package fr.zilkoniss.bettershears;
 import java.util.Random;
 
 import fr.zilkoniss.bettershears.creativetabs.BetterShearsTab;
-import fr.zilkoniss.bettershears.init.BlocksMod;
 import fr.zilkoniss.bettershears.proxy.CommonProxy;
 import fr.zilkoniss.bettershears.util.Reference;
 import fr.zilkoniss.bettershears.util.handlers.RegistryHandler;

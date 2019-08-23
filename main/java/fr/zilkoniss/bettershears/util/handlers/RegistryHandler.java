@@ -1,6 +1,5 @@
 package fr.zilkoniss.bettershears.util.handlers;
 
-import fr.zilkoniss.bettershears.init.BlocksMod;
 import fr.zilkoniss.bettershears.init.ItemsMod;
 import fr.zilkoniss.bettershears.util.interfaces.IHasModel;
 import net.minecraft.block.Block;
@@ -21,12 +20,6 @@ public class RegistryHandler
     }
     
     @SubscribeEvent
-    public static void onBlockRegister(RegistryEvent.Register<Block> event)
-    {
-        event.getRegistry().registerAll(BlocksMod.BLOCKS.toArray(new Block[0]));
-    }
-    
-    @SubscribeEvent
     public static void onModelRegister(ModelRegistryEvent event)
     {
         for(Item item : ItemsMod.ITEMS)
@@ -34,14 +27,6 @@ public class RegistryHandler
             if(item instanceof IHasModel)
             {
                 ((IHasModel)item).registerModels();
-            }
-        }
-        
-        for(Block block : BlocksMod.BLOCKS)
-        {
-            if(block instanceof IHasModel)
-            {
-                ((IHasModel)block).registerModels();
             }
         }
     }

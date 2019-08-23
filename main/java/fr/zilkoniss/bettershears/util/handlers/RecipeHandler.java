@@ -1,6 +1,5 @@
 package fr.zilkoniss.bettershears.util.handlers;
 
-import fr.zilkoniss.bettershears.init.BlocksMod;
 import fr.zilkoniss.bettershears.init.ItemsMod;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.registry.GameRegistry;
