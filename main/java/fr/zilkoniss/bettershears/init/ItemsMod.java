@@ -20,7 +20,7 @@ public class ItemsMod
     public static final List<Item> ITEMS = new ArrayList<Item>();
     
     public static final Item WOODEN_SHEARS = new ToolWoodenShears("wooden_shears").setCreativeTab(BetterShearsMod.BETTERSHEARSTAB);
-    public static final Item STONE_SHEARS = new ToolFlintShears("flint_shears").setCreativeTab(BetterShearsMod.BETTERSHEARSTAB);
+    public static final Item FLINT_SHEARS = new ToolFlintShears("flint_shears").setCreativeTab(BetterShearsMod.BETTERSHEARSTAB);
     public static final Item GOLD_SHEARS = new ToolGoldShears("gold_shears").setCreativeTab(BetterShearsMod.BETTERSHEARSTAB);
     public static final Item UNFIRED_CLAY_SHEARS = new ItemBase("unfired_clay_shears").setCreativeTab(BetterShearsMod.BETTERSHEARSTAB);
     public static final Item CLAY_SHEARS = new ToolClayShears("clay_shears").setCreativeTab(BetterShearsMod.BETTERSHEARSTAB);
