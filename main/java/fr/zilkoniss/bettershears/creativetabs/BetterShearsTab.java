@@ -13,6 +13,6 @@ public class BetterShearsTab extends CreativeTabs
     
     public ItemStack getTabIconItem() 
     { 
-        return new ItemStack(ItemsMod.EMERALD_SHEARS);
+        return new ItemStack(ItemsMod.STAR_SHEARS);
     }
 }
