@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " L",
+		"L "
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "minecraft:lapis_lazuli"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears2:lapis_shears",
+        "count": 1
+    }
+}

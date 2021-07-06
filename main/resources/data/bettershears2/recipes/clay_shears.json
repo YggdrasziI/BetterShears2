@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bettershears2:unfired_clay_shears"
+  },
+  "result": "bettershears2:clay_shears",
+  "experience": 1.0,
+  "cookingtime": 200
+}

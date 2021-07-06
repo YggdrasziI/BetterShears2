@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:shears/wooden",
+    "#forge:shears/flint",
+    "#forge:shears/gold",
+    "#forge:shears/clay",
+    "#forge:shears/lapis",
+    "#forge:shears/diamond",
+    "#forge:shears/obsidian",
+    "#forge:shears/emerald",
+    "#forge:shears/netherite",
+    "#forge:shears/star"
+  ]
+}

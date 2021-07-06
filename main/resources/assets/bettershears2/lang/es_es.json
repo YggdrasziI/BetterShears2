@@ -1,0 +1,14 @@
+{
+	"item.bettershears2.wooden_shears": "Tijeras de Madera",
+	"item.bettershears2.flint_shears": "Tijeras de Pedernal",
+	"item.bettershears2.gold_shears": "Tijeras de Oro",
+	"item.bettershears2.unfired_clay_shears": "Tijeras sin Fuego",
+	"item.bettershears2.clay_shears": "Tijeras de Arcilla",
+	"item.bettershears2.diamond_shears": "Tijeras de Diamante",
+	"item.bettershears2.obsidian_shears": "Tijeras de Obsidiana",
+	"item.bettershears2.emerald_shears": "Tijeras de Esmeralda",
+	"item.bettershears2.netherite": "Tijeras de Netherite",
+	"item.bettershears2.star_shears": "Tijeras Infinitas",
+
+	"itemGroup.bettershears2_mod": "Mejores Tijeras 2"
+}

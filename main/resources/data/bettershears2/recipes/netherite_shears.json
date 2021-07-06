@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing",
+    "base": 
+    {
+        "item": "bettershears2:diamond_shears"
+    },
+    "addition": 
+    {
+        "tag": "forge:ingots/netherite"
+    },
+    "result": 
+    {
+        "item": "bettershears2:netherite_shears"
+    }
+}

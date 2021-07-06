@@ -1,0 +1,14 @@
+{
+	"item.bettershears.wooden_shears": "Деревянные ножницы",
+	"item.bettershears.flint_shears": "кремневые ножницы",
+	"item.bettershears.gold_shears": "Золотые ножницы",
+	"item.bettershears.unfired_clay_shears": "необожженные ножницы",
+	"item.bettershears.clay_shears": "глиняные ножницы",
+	"item.bettershears.diamond_shears": "Алмазные ножницы",
+	"item.bettershears.obsidian_shears": "Обсидиановые ножницы",
+	"item.bettershears.emerald_shears": "Изумрудные ножницы",
+	"item.bettershears.netherite_shears": "Netherite ножницы",
+	"item.bettershears.star_shears": "бесконечные ножницы",
+
+	"itemGroup.bettershearstab": "Улучшенные ножницы"
+}

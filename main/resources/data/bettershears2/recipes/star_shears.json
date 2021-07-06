@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		" NC",
+		"ESN",
+		"BD "
+    ],
+	
+	"key":
+    {
+        "D":
+        {
+            "item": "minecraft:dragon_head"
+        },
+        "E":
+        {
+            "item": "minecraft:elytra"
+        },
+		"N":
+		{
+			"item": "minecraft:nether_star"
+		},
+		"C":
+		{
+			"item": "minecraft:end_crystal"
+		},
+		"S":
+		{
+			"item": "bettershears2:emerald_shears"
+		},
+		"B":
+		{
+			"item": "minecraft:beacon"
+		}
+    },
+    
+    "result":
+    {
+        "item": "bettershears2:star_shears",
+        "count": 1
+    }
+}

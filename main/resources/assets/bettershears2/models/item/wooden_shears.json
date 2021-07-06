@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "bettershears2:items/wooden_shears"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"item.bettershears.wooden_shears": "Tresaks",
+	"item.bettershears.flint_shears": "Flint Saks",
+	"item.bettershears.gold_shears": "Gull Saks",
+	"item.bettershears.unfired_clay_shears": "Ubrannede Saks",
+	"item.bettershears.clay_shears": "LeirsaksS",
+	"item.bettershears.diamond_shears": "Diamantsaks",
+	"item.bettershears.obsidian_shears": "Obsidian Saks",
+	"item.bettershears.emerald_shears": "Smaragd Saks",
+	"item.bettershears.netherite_shears": "Netherite Saks",
+	"item.bettershears.star_shears": "Uendelig Saks",
+
+	"itemGroup.bettershearstab": "Bedre Saks"
+}
